@@ -1,1 +1,2 @@
-Autotests with conftest
+Homework for https://stepik.org/
+
